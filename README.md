@@ -1,7 +1,6 @@
 
 - 🔭 Gosto de trabalhar em back-end
-- 🌱 Estudo C, Java, JavaScript e um pouco de Python
-- 👯 Aberto para propostas de trabalho na área de TI
+- 🌱 Estudo Java, JavaScript e um pouco de Python
 
 ##
 
