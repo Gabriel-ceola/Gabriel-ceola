@@ -1,6 +1,6 @@
 
-- 🔭 Gosto de trabalhar em back-end.
-- 🌱 Estudo Java, JavaScript e um pouco de Python.
+- 🔭 Gosto de trabalhar em back-end
+- 🌱 Java & JavaScript
 
 ##
 
