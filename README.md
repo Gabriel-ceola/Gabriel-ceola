@@ -1,7 +1,3 @@
-
-- 🔭 Gosto de trabalhar em back-end
-- 🌱 Java & JavaScript
-
 ##
 
 <div>
